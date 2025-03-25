@@ -49,3 +49,5 @@ tail -n 20 -F ~/Library/Logs/Claude/mcp*.log | grep "count-r"
 ```
 
 7. Test with Claude Desktop and the nice german word: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz
+
+![alt text](image-3.png)
