@@ -49,11 +49,9 @@ touch server.py
 
 ![alt text](image.png)
 
-1. Check logs of Claude Desktop:
+8.Check logs of Claude Desktop:
 
 ```bash
 tail -n 20 -F ~/Library/Logs/Claude/mcp*.log | grep "count-r"
 
 ```
-
-
