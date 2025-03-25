@@ -41,13 +41,19 @@ touch server.py
 
 5. Restart Claude Desktop
 
-6. Check logs of Claude Desktop:
+6. Test with Claude Desktop and the nice german word: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz
+
+![alt text](image-3.png)
+
+7. Accept the new mcp server
+   
+![alt text](image.png)
+
+1. Check logs of Claude Desktop:
 
 ```bash
 tail -n 20 -F ~/Library/Logs/Claude/mcp*.log | grep "count-r"
 
 ```
 
-7. Test with Claude Desktop and the nice german word: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz
 
-![alt text](image-3.png)
