@@ -27,9 +27,9 @@ touch server.py
 {
   "mcpServers": {
     "count-r": {
-      "command": "/Users/ma3u/projects/count-r-server/.venv/bin/python",
+      "command": "/Users/ma3u/projects/mcp-server-count-r-/.venv/bin/python",
       "args": [
-        "/Users/ma3u/projects/count-r-server/server.py"
+        "/Users/ma3u/projects/mcp-server-count-r-/server.py"
       ],
       "host": "127.0.0.1",
       "port": 5000,
