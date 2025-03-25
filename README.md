@@ -46,7 +46,7 @@ touch server.py
 ![alt text](image-3.png)
 
 7. Accept the new mcp server
-   
+
 ![alt text](image.png)
 
 1. Check logs of Claude Desktop:
